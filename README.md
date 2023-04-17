@@ -1,6 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
 
 # WELCOME TO CHOPITO'S REPOSITORY ^ · ^
+---
+<div align="center">
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <br>
+        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+</div>
 <div>
       <p align="left">
          Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>
@@ -22,13 +28,6 @@
 > [2ºSMR](https://github.com/ImChopi/2SMR)
 
 > [1ºDAM](https://github.com/ImChopi/1DAM)
-
-### Skills
-<div align="left">
-        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
-        <br>
-        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
-</div>
 
 ### Tech Knowledge
 <div align="center">
