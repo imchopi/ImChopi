@@ -38,6 +38,7 @@
     </thead>
     <tbody align="center">
         <tr>
+            <td></td>
             <td colspan=1>
                 <b>General Purpose</b>
             </td>
