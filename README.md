@@ -28,11 +28,6 @@
 > [1ºDAM](https://github.com/ImChopi/1DAM)
 
 ### Tech Knowledge
-<div align="center">
-    <p align="left">
-        I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
-    </p>
-</div>
 
 <table align="center">
     <thead align="center">
