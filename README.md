@@ -6,4 +6,4 @@
 
 > [World of Warcraft web](https://github.com/ImChopi/1DAM/tree/main/HTML_CSS_JS/Project_Final-WorldOfWarcraft_web)
 
-> [MySQL + JSP](Adrian)
+> [MySQL + JSP](https://github.com/ImChopi/1DAM/tree/main/JSP/Project_Final-MySQL_JSP/mysqlCRUD)
