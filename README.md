@@ -11,10 +11,11 @@
       <br>
          Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>
       <br>
-      </p>
       <a href="https://chopito.vercel.app">CLICK ME TO CONTACT ME</a>
+      </p>
 </div>
 ---
+
 ### _Some Projects..._
 
 > [World of Warcraft web](https://github.com/ImChopi/1DAM/tree/main/HTML_CSS_JS/Project_Final-WorldOfWarcraft_web)
