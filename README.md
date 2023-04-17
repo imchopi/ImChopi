@@ -42,13 +42,12 @@
         <tr>
             <th></th>
             <th>What I know</th>
-            <th>What I want to know</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
             <td> <!-- Empty --> </td>
-            <td colspan=2>
+            <td colspan=1>
                 <b>General Purpose</b>
             </td>
         </tr>
@@ -57,8 +56,6 @@
             <td>
                 <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
                 <img src="https://img.shields.io/badge/Java-%23DD4F39.svg?style=flat&logo=oracle&logoColor=white" alt="Java">
-            </td>
-            <td>
                 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
             </td>
         </tr>
