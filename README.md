@@ -1,10 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
-
 # WELCOME TO CHOPITO'S REPOSITORY ^ · ^
----
 <div align="center">
-        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
         <br>
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
 </div>
 <div>
@@ -13,8 +11,6 @@
       <br>
       </p>
 </div>
-
----
  [CLICK ME TO CONTACT ME!](https://chopito.vercel.app/)
 ---
 ### _Some Projects..._
