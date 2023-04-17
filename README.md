@@ -1,5 +1,5 @@
 <div align="center">
-        <h1>WELCOME TO CHOPITO'S REPOSITORY ^ · ^</h1>
+        <h1>WELCOME TO CHOPITO'S REPOSITORY (づ ◕‿◕ )づ</h1>
         <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
         <br>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
