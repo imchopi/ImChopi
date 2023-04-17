@@ -29,7 +29,7 @@
 
 ### Tech Knowledge
 
-<table align="center">
+<table align="left">
     <thead align="center">
         <tr>
             <th></th>
