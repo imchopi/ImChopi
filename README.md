@@ -89,7 +89,7 @@
                 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
             <td>Other</td>
             <td>
-                <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+                <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" alt="Trello">
                 <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat&logo=notion&logoColor=black" alt="Notion">
             </td>
         </tr>
