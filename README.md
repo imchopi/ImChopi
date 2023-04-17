@@ -11,7 +11,7 @@
       <br>
          Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>
       <br>
-         <a href="https://chopito.vercel.app"><h2>CLICK ME TO CONTACT ME</h2></a>
+         <h2><a href="https://chopito.vercel.app">CLICK ME TO CONTACT ME</a></h2>
       </p>
 </div>
 
