@@ -1,7 +1,9 @@
-# WELCOME TO CHOPITO'S REPOSITORY ^ · ^ <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
+<img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
+
+# WELCOME TO CHOPITO'S REPOSITORY ^ · ^
 <div>
       <p align="left">
-         Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>.
+         Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>
       <br>
       </p>
 </div>
@@ -24,5 +26,6 @@
 ### Skills
 <div align="left">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <br>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
 </div>
