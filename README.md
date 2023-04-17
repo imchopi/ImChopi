@@ -1,4 +1,4 @@
-# WELCOME TO CHOPITO'S REPOSITORY ^ · ^
+# WELCOME TO CHOPITO'S REPOSITORY ^ · ^ <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
 <div>
       <p align="left">
          Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>.
@@ -25,6 +25,4 @@
 <div align="left">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
-    <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
 </div>
