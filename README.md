@@ -4,14 +4,15 @@
         <br>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <br>
 </div>
 <div>
-      <p align="left">
+      <p align="center">
          Hi, I'm <b>Adrián</b>, a cross-platform application development student.</b>
       <br>
       </p>
 </div>
- [CLICK ME TO CONTACT ME!](https://chopito.vercel.app/)
+[CLICK ME TO CONTACT ME!](https://chopito.vercel.app/)
 ---
 ### _Some Projects..._
 
