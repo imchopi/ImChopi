@@ -21,53 +21,81 @@
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+<h1 align="center">🛠 Tecnologías y Herramientas</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-AI%20%26%20Data-FF6F00?style=for-the-badge&logo=artstation&logoColor=white">
+</p>
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo, organizadas por áreas:
-### Inteligencia Artificial (IA)
 
-#### Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Clasificación Binaria](https://img.shields.io/badge/Clasificación_Binaria-008CBA?style=for-the-badge)
-![Clasificación Multiclase](https://img.shields.io/badge/Clasificación_Multiclase-FF6F00?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge)
-![PyOD](https://img.shields.io/badge/PyOD-FF6F00?style=for-the-badge)
-![Detección de Anomalías](https://img.shields.io/badge/Detección_de_Anomalías-FF6F00?style=for-the-badge)
-![Sistemas Expertos](https://img.shields.io/badge/Sistemas_Expertos-008CBA?style=for-the-badge)
-![Aprendizaje por Refuerzo](https://img.shields.io/badge/Aprendizaje_por_Refuerzo-FF6F00?style=for-the-badge)
+---
 
-#### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white)
-![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-008CBA?style=for-the-badge)
+## 🚀 Inteligencia Artificial (IA)
 
-#### Procesamiento de Lenguaje Natural (NLP)
-![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white)
-![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 Machine Learning  
+| Tecnología | Descripción |
+|------------|------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Lenguaje principal de desarrollo |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Manipulación de arrays eficientes |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Análisis y manipulación de datos |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) | Visualización de datos |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=for-the-badge&logo=seaborn&logoColor=white) | Gráficos estadísticos avanzados |
+| ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Modelos de aprendizaje automático |
+| ![PyOD](https://img.shields.io/badge/PyOD-FF6F00?style=for-the-badge) | Detección de anomalías |
+| ![Clasificación Binaria](https://img.shields.io/badge/Clasificación_Binaria-008CBA?style=for-the-badge) | Modelos de clasificación binaria |
+| ![Clustering](https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge) | Agrupamiento de datos |
 
-#### Visión por Computadora (Computer Vision)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
-![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge)
-![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge)
-![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge)
+---
 
-#### Generative AI
-![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge)
-![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge)
+### 🧠 Deep Learning  
+| Tecnología | Descripción |
+|------------|------------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Framework para aprendizaje profundo |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | API de alto nivel para redes neuronales |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Framework flexible para deep learning |
+| ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white) | Computación acelerada en GPU/TPU |
+| ![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge) | Construcción de modelos avanzados |
+| ![CNN](https://img.shields.io/badge/CNN-008CBA?style=for-the-badge) | Redes neuronales convolucionales |
 
-#### Integración y Despliegue
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+---
+
+### 🗣 Procesamiento de Lenguaje Natural (NLP)
+| Tecnología | Descripción |
+|------------|------------|
+| ![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white) | Procesamiento de texto y voz |
+| ![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white) | Expresiones regulares para NLP |
+| ![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge) | Detección de emociones en textos |
+| ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white) | Conversión de voz a texto |
+| ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) | Modelos de lenguaje a gran escala |
+
+---
+
+### 👀 Visión por Computadora (Computer Vision)
+| Tecnología | Descripción |
+|------------|------------|
+| ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) | Análisis de imágenes y vídeos |
+| ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge) | Eliminación de ruido en imágenes |
+| ![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge) | Modelos generativos para imágenes |
+| ![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge) | Manipulación avanzada de imágenes |
+
+---
+
+### 🎨 Generative AI
+| Tecnología | Descripción |
+|------------|------------|
+| ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge) | Redes Generativas Adversarias |
+| ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge) | Creación de contenido sintético |
+
+---
+
+### 🔧 Integración y Despliegue
+| Tecnología | Descripción |
+|------------|------------|
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | Framework para construir aplicaciones web con IA |
+
+---
+
+<h3 align="center">📍 ¡Siempre explorando nuevas tecnologías! 🚀</h3>
 
 ---
 
