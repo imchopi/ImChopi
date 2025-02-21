@@ -5,10 +5,11 @@
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
         <br>
-    
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical)
+        <div>
+                ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical)
+                ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical)
+        </div>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical)
 </div>
 # 👋 Hola, soy [Tu Nombre] 
 
