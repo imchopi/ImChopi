@@ -1,5 +1,5 @@
 <div align="center">
-        <h1>WELCOME TO CHOPITO'S REPOSITORY (づ ◕‿◕ )づ</h1>
+        <h1>Hola, soy Adrián Perogil Fernández (づ ◕‿◕ )づ</h1>
         <img src="https://komarev.com/ghpvc/?username=ImChopi" alt="ImChopi"/>
         <br>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
@@ -13,35 +13,24 @@
     <img src="https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
 </div>
 
----
-
-# 👋 Hola, soy [Adrián Perogil Fernández]
-
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la **Inteligencia Artificial** y el **Big Data**.
-
----
-
 ## 🚀 Sobre Mí
 
+Soy un apasionado de la **Inteligencia Artificial** y el **Big Data**.
+Me adapto fácilmente al trabajo en equipo, siempre abierto a aprender de los demás y ayudar en todo lo posible. 
+Me actualizo diariamente sobre tecnología, soy muy curioso y me apasiona ver los avances que vayan surgiendo. 
+En mi tiempo libre, me gusta hacer senderismo con mis amigos, leer, escuchar música y jugar a videojuegos.
+
+**TODO el contenido será enfocado en mi campo actual que es Inteligencia Artifical y Big Data**, pero
+me parece interesante comentar donde fue mi punto de partida...
 - 🎓 **Máster de FP en Inteligencia Artificial y Big Data** (CPIFP Alan Turing - Accenture)
-- 💻 Ex-desarrollador Front-end, ahora especializado en IA y análisis de datos.
-- 📊 Enfocado en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural (NLP) y Visualización de Datos.
-- 🌱 Siempre explorando nuevas tecnologías y frameworks relacionados con la IA y el Big Data.
+- 🎓 **CFGS en Desarrollo Multiplataforma** (CPIFP Alan Turing)
+- 🎓 **CFGM en Sistemas Microinformáticos y Redes**  (CPIFP Alan Turing)
+- 🎓 **CFGM en Instalaciones Eléctricas y Automáticas** (Escuelas Ave María)
 
----
-
-<h1 align="center">🛠 Tecnologías y Herramientas</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/-AI%20%26%20Data-FF6F00?style=for-the-badge&logo=artstation&logoColor=white">
-</p>
-
+## 🛠 Tecnologías y Herramientas
 Aquí están algunas de las tecnologías y herramientas con las que trabajo, organizadas por áreas:
 
----
-
-## 🚀 Inteligencia Artificial (IA)
-
-### 🤖 Machine Learning  
+#### Machine Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -54,7 +43,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge">
 </p>
 
-### 🧠 Deep Learning  
+#### Deep Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
@@ -64,7 +53,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/CNN-008CBA?style=for-the-badge">
 </p>
 
-### 🗣 Procesamiento de Lenguaje Natural (NLP)  
+#### Procesamiento de Lenguaje Natural (NLP)  
 <p align="left">
   <img src="https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white">
   <img src="https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white">
@@ -73,7 +62,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
-### 👀 Visión por Computadora (Computer Vision)  
+#### Visión por Computadora (Computer Vision)  
 <p align="left">
   <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge">
@@ -81,60 +70,55 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge">
 </p>
 
-### 🎨 Generative AI  
+#### Generative AI  
 <p align="left">
   <img src="https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge">
 </p>
 
-### 🔧 Integración y Despliegue  
+#### Integración y Despliegue  
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
----
-
-### Big Data  
+#### Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+#### Cloud Computing
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+#### ETL y Tratamiento de datos
+<p align="left">
   <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+</p>
+
+#### Visualización de datos
+<p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
----
-
 ## 📂 Proyectos Destacados
 
-Aquí tienes algunos de mis proyectos más relevantes:
+**Haciendo limpieza en el repositorio**
 
-1. **Sistema de Recomendación con Machine Learning**  
-   - Uso de algoritmos de recomendación basados en filtrado colaborativo.
-   - Tecnologías: Python, Scikit-Learn, Pandas, Flask.
+## Certificados
 
-2. **Análisis de Sentimientos en Redes Sociales**  
-   - Procesamiento de Lenguaje Natural (NLP) para analizar sentimientos en tweets.
-   - Tecnologías: TensorFlow, NLTK, SpaCy.
-
-3. **Plataforma de Análisis de Datos en Tiempo Real**  
-   - Procesamiento de grandes volúmenes de datos con Apache Spark y Kafka.
-   - Tecnologías: Spark, Kafka, Hadoop, Python.
-
-4. **Visualización Interactiva de Datos**  
-   - Creación de dashboards interactivos con Tableau y Power BI.
-   - Tecnologías: Tableau, Power BI, SQL.
-
+**Optimizando . . .*
 
 ## 📫 Contacto
 
-¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!
+Si quieres información mas concreta de mi, te dejo adjunto mi CV
+[CV_ADRIAN_PEROGIL_FERNANDEZ.pdf](https://github.com/user-attachments/files/18902119/CV_ADRIAN_PEROGIL_FERNANDEZ.pdf)
 
-- 📧 **Email**: [tuemail@example.com](mailto:tuemail@example.com)
-- 💼 **LinkedIn**: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tuperfil)
-- 🐦 **Twitter**: [@TuUsuarioTwitter](https://twitter.com/TuUsuarioTwitter)
+- 📧 **Email**: [adrianperogil@gmail.com](mailto:adrianperogil@gmail.com)
+- 💼 **LinkedIn**: [Adrián Perogil Fernández](https://www.linkedin.com/in/aperogil/)
 
 ---
 
