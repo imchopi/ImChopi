@@ -67,7 +67,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge)
 
 #### Integración y Despliegue
-![Integración y Despliegue](https://img.shields.io/badge/Integración_y_Despliegue-008CBA?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
