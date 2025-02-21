@@ -33,143 +33,78 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ## 🚀 Inteligencia Artificial (IA)
 
 ### 🤖 Machine Learning  
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Lenguaje principal de desarrollo |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Manipulación de arrays eficientes |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Análisis y manipulación de datos |
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) | Visualización de datos |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical)
-  
-  </td>
-  </tr>
-</table>
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=for-the-badge&logo=seaborn&logoColor=white) |
+| ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| ![PyOD](https://img.shields.io/badge/PyOD-FF6F00?style=for-the-badge) |
+| ![Clasificación Binaria](https://img.shields.io/badge/Clasificación_Binaria-008CBA?style=for-the-badge) |
+| ![Clustering](https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge) |
 
 ---
 
 ### 🧠 Deep Learning  
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Framework para aprendizaje profundo |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | API de alto nivel para redes neuronales |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Framework flexible para deep learning |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imchopi&theme=radical)
-  
-  </td>
-  </tr>
-</table>
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white) |
+| ![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge) |
+| ![CNN](https://img.shields.io/badge/CNN-008CBA?style=for-the-badge) |
 
 ---
 
 ### 🗣 Procesamiento de Lenguaje Natural (NLP)
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white) | Procesamiento de texto y voz |
-| ![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white) | Expresiones regulares para NLP |
-| ![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge) | Detección de emociones en textos |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical)
-  
-  </td>
-  </tr>
-</table>
+| ![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white) |
+| ![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white) |
+| ![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge) |
+| ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white) |
+| ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) |
 
 ---
 
 ### 👀 Visión por Computadora (Computer Vision)
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) | Análisis de imágenes y vídeos |
-| ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge) | Eliminación de ruido en imágenes |
-| ![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge) | Modelos generativos para imágenes |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imchopi&theme=redical)
-  
-  </td>
-  </tr>
-</table>
+| ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) |
+| ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge) |
+| ![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge) |
+| ![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge) |
 
 ---
 
 ### 🎨 Generative AI
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge) | Redes Generativas Adversarias |
-| ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge) | Creación de contenido sintético |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=imchopi&label=Profile%20Views&color=brightgreen&style=flat)
-  
-  </td>
-  </tr>
-</table>
+| ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge) |
+| ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge) |
 
 ---
 
 ### 🔧 Integración y Despliegue
-<table>
-  <tr>
-    <td valign="top">
-
 | Tecnología | Descripción |
 |------------|------------|
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | Framework para construir aplicaciones web con IA |
-
-  </td>
-  <td valign="top" align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imchopi&theme=radical)
-  
-  </td>
-  </tr>
-</table>
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 
 ---
 
 ### Big Data
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+| Tecnología | Descripción |
+|------------|------------|
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
+| ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | 
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | 
+| ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white) | 
+| ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) | 
+| ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | 
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | 
 
 ---
 
