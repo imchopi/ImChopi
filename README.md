@@ -33,8 +33,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ## 🚀 Inteligencia Artificial (IA)
 
 ### 🤖 Machine Learning  
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
@@ -48,8 +48,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ---
 
 ### 🧠 Deep Learning  
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
@@ -60,8 +60,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ---
 
 ### 🗣 Procesamiento de Lenguaje Natural (NLP)
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white) |
 | ![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white) |
 | ![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge) |
@@ -71,8 +71,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ---
 
 ### 👀 Visión por Computadora (Computer Vision)
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) |
 | ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge) |
 | ![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge) |
@@ -81,23 +81,23 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ---
 
 ### 🎨 Generative AI
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge) |
 | ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge) |
 
 ---
 
 ### 🔧 Integración y Despliegue
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 
 ---
 
 ### Big Data
-| Tecnología | Descripción |
-|------------|------------|
+| Tecnología |
+|------------|
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
 | ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | 
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | 
