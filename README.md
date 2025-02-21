@@ -115,7 +115,10 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ## 📫 Contacto
 
 Si quieres información mas concreta de mi, te dejo adjunto mi CV
-[CV_ADRIAN_PEROGIL_FERNANDEZ.pdf](https://github.com/user-attachments/files/18902119/CV_ADRIAN_PEROGIL_FERNANDEZ.pdf)
+[¡Click aquí para descargar!](https://github.com/user-attachments/files/18902119/CV_ADRIAN_PEROGIL_FERNANDEZ.pdf)
+Visualización previa
+![image](https://github.com/user-attachments/assets/bba86d81-07ba-4ec6-8731-a4e52520c2f1)
+
 
 - 📧 **Email**: [adrianperogil@gmail.com](mailto:adrianperogil@gmail.com)
 - 💼 **LinkedIn**: [Adrián Perogil Fernández](https://www.linkedin.com/in/aperogil/)
