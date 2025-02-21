@@ -33,7 +33,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ## 🚀 Inteligencia Artificial (IA)
 
 ### 🤖 Machine Learning  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -45,10 +45,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge">
 </p>
 
----
-
 ### 🧠 Deep Learning  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -57,10 +55,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/CNN-008CBA?style=for-the-badge">
 </p>
 
----
-
 ### 🗣 Procesamiento de Lenguaje Natural (NLP)  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white">
   <img src="https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white">
   <img src="https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge">
@@ -68,35 +64,29 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
   <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
----
-
 ### 👀 Visión por Computadora (Computer Vision)  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge">
 </p>
 
----
-
 ### 🎨 Generative AI  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge">
 </p>
 
----
-
 ### 🔧 Integración y Despliegue  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
 ---
 
 ### Big Data  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
