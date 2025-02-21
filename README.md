@@ -32,6 +32,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Inteligencia Artificial (IA)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
