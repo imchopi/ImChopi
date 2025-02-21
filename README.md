@@ -23,7 +23,7 @@
 
 ## 🛠 Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+Aquí están algunas de las tecnologías y herramientas con las que trabajo, organizadas por áreas:
 
 ### Big Data
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,11 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
+
 ### Inteligencia Artificial (IA)
+
+#### Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,28 +47,39 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Clasificación Binaria](https://img.shields.io/badge/Clasificación_Binaria-008CBA?style=for-the-badge)
 ![Clasificación Multiclase](https://img.shields.io/badge/Clasificación_Multiclase-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white)
-![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Clustering](https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge)
 ![PyOD](https://img.shields.io/badge/PyOD-FF6F00?style=for-the-badge)
 ![Detección de Anomalías](https://img.shields.io/badge/Detección_de_Anomalías-FF6F00?style=for-the-badge)
 ![Sistemas Expertos](https://img.shields.io/badge/Sistemas_Expertos-008CBA?style=for-the-badge)
 ![Aprendizaje por Refuerzo](https://img.shields.io/badge/Aprendizaje_por_Refuerzo-FF6F00?style=for-the-badge)
-![Integración y Despliegue](https://img.shields.io/badge/Integración_y_Despliegue-008CBA?style=for-the-badge)
-![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge)
+
+#### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white)
-![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge)
-![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge)
+![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-008CBA?style=for-the-badge)
+
+#### Procesamiento de Lenguaje Natural (NLP)
+![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white)
+![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Visión por Computadora (Computer Vision)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
 ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge)
+![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge)
+![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge)
+
+#### Generative AI
 ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge)
+![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge)
+
+#### Integración y Despliegue
+![Integración y Despliegue](https://img.shields.io/badge/Integración_y_Despliegue-008CBA?style=for-the-badge)
 
 ---
 
