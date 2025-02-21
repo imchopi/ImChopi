@@ -33,69 +33,132 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo, org
 ## 🚀 Inteligencia Artificial (IA)
 
 ### 🤖 Machine Learning  
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Lenguaje principal de desarrollo |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Manipulación de arrays eficientes |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Análisis y manipulación de datos |
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) | Visualización de datos |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=for-the-badge&logo=seaborn&logoColor=white) | Gráficos estadísticos avanzados |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Modelos de aprendizaje automático |
-| ![PyOD](https://img.shields.io/badge/PyOD-FF6F00?style=for-the-badge) | Detección de anomalías |
-| ![Clasificación Binaria](https://img.shields.io/badge/Clasificación_Binaria-008CBA?style=for-the-badge) | Modelos de clasificación binaria |
-| ![Clustering](https://img.shields.io/badge/Clustering-008CBA?style=for-the-badge) | Agrupamiento de datos |
+
+  </td>
+  <td valign="top" align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical)
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧠 Deep Learning  
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Framework para aprendizaje profundo |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | API de alto nivel para redes neuronales |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Framework flexible para deep learning |
-| ![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white) | Computación acelerada en GPU/TPU |
-| ![Redes Neuronales](https://img.shields.io/badge/Redes_Neuronales-FF6F00?style=for-the-badge) | Construcción de modelos avanzados |
-| ![CNN](https://img.shields.io/badge/CNN-008CBA?style=for-the-badge) | Redes neuronales convolucionales |
+
+  </td>
+  <td valign="top" align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imchopi&theme=radical)
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗣 Procesamiento de Lenguaje Natural (NLP)
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![NLP](https://img.shields.io/badge/NLP-4B77BE?style=for-the-badge&logo=natural-language-processing&logoColor=white) | Procesamiento de texto y voz |
 | ![RegEx](https://img.shields.io/badge/RegEx-009688?style=for-the-badge&logo=regex&logoColor=white) | Expresiones regulares para NLP |
 | ![Análisis de Sentimientos](https://img.shields.io/badge/Análisis_de_Sentimientos-FF6F00?style=for-the-badge) | Detección de emociones en textos |
-| ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white) | Conversión de voz a texto |
-| ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) | Modelos de lenguaje a gran escala |
+
+  </td>
+  <td valign="top" align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical)
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 👀 Visión por Computadora (Computer Vision)
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) | Análisis de imágenes y vídeos |
 | ![Denoising](https://img.shields.io/badge/Denoising-008CBA?style=for-the-badge) | Eliminación de ruido en imágenes |
 | ![Generación de Imágenes](https://img.shields.io/badge/Generación_de_Imágenes-008CBA?style=for-the-badge) | Modelos generativos para imágenes |
-| ![Transformación de Imágenes](https://img.shields.io/badge/Transformación_de_Imágenes-FF6F00?style=for-the-badge) | Manipulación avanzada de imágenes |
+
+  </td>
+  <td valign="top" align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imchopi&theme=redical)
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 🎨 Generative AI
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=for-the-badge) | Redes Generativas Adversarias |
 | ![Redes Neuronales Generativas](https://img.shields.io/badge/Redes_Neuronales_Generativas-008CBA?style=for-the-badge) | Creación de contenido sintético |
 
+  </td>
+  <td valign="top" align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=imchopi&label=Profile%20Views&color=brightgreen&style=flat)
+  
+  </td>
+  </tr>
+</table>
+
 ---
 
 ### 🔧 Integración y Despliegue
+<table>
+  <tr>
+    <td valign="top">
+
 | Tecnología | Descripción |
 |------------|------------|
 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | Framework para construir aplicaciones web con IA |
 
----
-
-<h3 align="center">📍 ¡Siempre explorando nuevas tecnologías! 🚀</h3>
+  </td>
+  <td valign="top" align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imchopi&theme=radical)
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
