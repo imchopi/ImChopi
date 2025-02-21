@@ -7,22 +7,26 @@
         <br>
 </div>
 
-<div>
-        ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical)
-        ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchopi&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=imchopi&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
 </div>
-# 👋 Hola, soy [Tu Nombre] 
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a de la **Inteligencia Artificial** y el **Big Data**, con un Máster en estas áreas. Aquí encontrarás proyectos, experimentos y contribuciones relacionadas con el mundo de los datos, el aprendizaje automático y la analítica avanzada.
+---
+
+# 👋 Hola, soy [Adrián Perogil Fernández]
+
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la **Inteligencia Artificial** y el **Big Data**.
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 🎓 **Máster en Inteligencia Artificial y Big Data** (Universidad XYZ)
-- 💻 Desarrollador/Data Scientist con experiencia en proyectos de IA y análisis de datos.
-- 📊 Especializado en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural (NLP) y Visualización de Datos.
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías y frameworks.
+- 🎓 **Máster de FP en Inteligencia Artificial y Big Data** (CPIFP Alan Turing - Accenture)
+- 💻 Ex-desarrollador Front-end, ahora especializado en IA y análisis de datos.
+- 📊 Enfocado en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural (NLP) y Visualización de Datos.
+- 🌱 Siempre explorando nuevas tecnologías y frameworks relacionados con la IA y el Big Data.
 
 ---
 
